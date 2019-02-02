@@ -2,45 +2,37 @@
 =================================================
 
 ## Project Name
+Lab 0
+https://travis-ci.com/vladimirsan/401n12-lab0.svg?branch=master
 
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [repo](https://github.com/vladimirsan/401n12-lab0)
+* [travis](https://travis-ci.com/vladimirsan/401n12-lab0)
+* [front-end](https://lab0-401n12.herokuapp.com/) (when applicable)
 
-#### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
 
 ### Modules
-#### `modulename.js`
+#### `pol.js`
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
+###### `isAlive(dead) -> boolean`
 Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* Endpoint: `/`
+  * Displays true
   
 #### Tests
 * How do you run tests?
+  -lives by default
+  -dies with a param
 * What assertions were made?
+ - Testing the return value of isAlive
 * What assertions need to be / should be made?
+ - Nothing is pending right now.
 
 #### UML
-Link to an image of the UML for your application and response to events
+PICTURE :)

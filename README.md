@@ -2,8 +2,7 @@
 =================================================
 
 ## Project Name
-Lab 0
-https://travis-ci.com/vladimirsan/401n12-lab0.svg?branch=master
+Lab 0 [![Build Status](https://travis-ci.com/vladimirsan/401n12-lab0.svg?branch=master)](https://travis-ci.com/vladimirsan/401n12-lab0)
 
 ### Author: Student/Group Name
 

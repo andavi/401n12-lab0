@@ -2,14 +2,14 @@
 =================================================
 
 ## Project Name
-Lab 0 [![Build Status](https://travis-ci.com/vladimirsan/401n12-lab0.svg?branch=master)](https://travis-ci.com/vladimirsan/401n12-lab0)
+Lab 0 [![Build Status](https://travis-ci.com/andavi/401n12-lab0.svg?branch=master)](https://travis-ci.com/andavi/401n12-lab0)
 
 ### Author: Andrew Davis
 
 ### Links and Resources
 * [repo](https://github.com/andavi/401n12-lab0)
 * [travis](https://travis-ci.com/andavi/401n12-lab0)
-* [front-end](https://lab0-401n12.herokuapp.com/) (when applicable)
+* [front-end](https://ad-401n12-lab0.herokuapp.com/) (when applicable)
 
 
 ### Modules
